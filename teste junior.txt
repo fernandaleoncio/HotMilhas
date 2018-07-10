@@ -1,0 +1,6 @@
+2-
+== não diferencia tipos, compara somente se os valores são iguais
+=== só é igual se os tipos e valores forem iguais
+
+4- 42
+5- sim
